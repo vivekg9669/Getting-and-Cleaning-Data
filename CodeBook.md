@@ -82,9 +82,9 @@ fBodyBodyGyroJerkMag-std()
 fBodyBodyGyroJerkMag-meanFreq()
 
 # Activites
-WALKING (1): subject was walking
-WALKING_UPSTAIRS (2): subject was walking up a staircase
-WALKING_DOWNSTAIRS (3): subject was walking down a staircase
-SITTING (4): subject was sitting
-STANDING (5): subject was standing
-LAYING (6): subject was laying down
+1) WALKING: subject was walking
+2) WALKING_UPSTAIRS: subject was walking up a staircase
+3) WALKING_DOWNSTAIRS: subject was walking down a staircase
+4) SITTING: subject was sitting
+5) STANDING: subject was standing
+6) LAYING: subject was laying down
