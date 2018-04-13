@@ -1,5 +1,7 @@
 # Variables in the tidy dataset
+
 Subject
+
 Activity                      
 tBodyAcc-mean()-X              
 tBodyAcc-mean()-Y               
