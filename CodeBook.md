@@ -1,6 +1,6 @@
 # Variables in the tidy dataset
 
-Subject
+Subject,
 Activity                      
 tBodyAcc-mean()-X              
 tBodyAcc-mean()-Y               
