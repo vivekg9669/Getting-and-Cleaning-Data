@@ -55,4 +55,4 @@ tidyDataset <- data %>%
                group_by(Subject, Activity) %>%
                summarise_all(funs(mean))
 
-
+write.table(tidyDataset, "tidy.txt", row.names = FALSE)
